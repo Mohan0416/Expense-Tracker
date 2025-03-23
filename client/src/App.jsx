@@ -13,8 +13,8 @@ const App = () => {
       <div>
         <Navbar/>
         <Routes>
-          <Route path="/" element={<AddTransaction />} />
-          <Route path="/dashboard" element={<Dashboard />} />
+          <Route path="/add-transaction" element={<AddTransaction />} />
+          <Route path="/" element={<Dashboard />} />
           <Route path="/transaction" element={<Transaction />} />
           <Route path="/report" element={<Report />} />
           <Route path="*" element={<NotFound/>}/>
