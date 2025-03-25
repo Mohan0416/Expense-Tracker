@@ -4,8 +4,8 @@ import Dashboard from './pages/Dashboard'
 import Navbar from './Components/Navbar'
 import Transaction from "./pages/Transaction";
 import Report from "./pages/Report";
-import NotFound from './Pages/NotFound';
 import AddTransaction from './Pages/AddTransaction';
+import NotFound from './Pages/NotFound';
 
 const App = () => {
   return (
