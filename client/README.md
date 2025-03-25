@@ -3,6 +3,10 @@
 🚀 A simple and efficient **Expense Tracker** application to help users manage their finances by tracking income and expenses. Built using **React (frontend)**, with data stored locally in the browser using **LocalStorage**.  
 
 
+## 🌍 Live Demo  
+🔗 [Expense Tracker Application](https://expense-trackero.netlify.app/) 
+
+
 ## 🛠️ Features  
 ✅ Add, edit, and delete transactions  
 ✅ Categorize expenses (Food, Travel, Bills, etc.)  
@@ -14,7 +18,7 @@
 ## 🚀 Tech Stack  
 | Technology | Description |
 |------------|------------|
-| **Frontend**  | React, Vite, Tailwind CSS |
-| **State Management** | Context API / useState |
+| **Frontend**  | React |
+| **State Management** |  useState |
 | **Storage**  | LocalStorage |
-| **Charts**   | Chart.js / Recharts |
+| **Charts**   | Chart.js  |
