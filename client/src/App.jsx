@@ -1,11 +1,11 @@
 import React from 'react'
 import { BrowserRouter, Routes,Route} from 'react-router-dom'
-import Dashboard from './Pages/Dashboard.jsx'
 import Navbar from './Components/Navbar.jsx'
 import Transaction from "./Pages/Transaction.jsx";
 import Report from "./Pages/Report.jsx";
 import AddTransaction from './Pages/AddTransaction.jsx';
 import NotFound from './Pages/NotFound.jsx';
+import Dashboard from './Pages/Dashboard.jsx'
 
 const App = () => {
   return (
